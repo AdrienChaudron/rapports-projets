@@ -19,3 +19,4 @@ Recueil de mes rapports techniques, classés par année d'école d'ingénieur.
 | Rapport | Description |
 |---|---|
 | [Segmentation CNN du cerceau — drone Tello](5A/Rapport_CNN_segmentation_cerceau_drone_Tello.pdf) | Partie vision d'un projet de vol autonome : réseau RingSegNet (MobileNetV3-small + décodeur U-Net) pour segmenter un cerceau indépendamment de sa couleur, puis le localiser en 2D et en 3D. |
+| [Code source — drone Tello](https://github.com/AdrienChaudron/drone-tello-cerceaux) | Dépôt du projet : détection du cerceau par CNN, position 3D, machine à états de recherche et de mise en axe, liaison MQTT avec le PC de contrôle. |
