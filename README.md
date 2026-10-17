@@ -12,7 +12,8 @@ Recueil de mes rapports techniques, classés par année d'école d'ingénieur.
 
 | Rapport | Description |
 |---|---|
-| [Annexe technique — solveur IK redondant](4A/Annexe_Gradel_solveur_IK_redondant.pdf) | Formulation mathématique et algorithmique d'un solveur de cinématique inverse pour un robot ABB IRB 6640 sur rail linéaire avec mandrin rotatif (RobotComponents / Grasshopper). |
+| [Fonctionnement du solveur cinématique](4A/Fonctionnement_solveur_cinematique.pdf) | Présentation du solveur de cinématique inverse développé pour la cellule d'enroulement filamentaire : problème posé, notions de robotique, étapes de calcul (rail, yaw, mandrin), algorithme de recherche, détection de collision et génération du programme RAPID. |
+| [Annexe — théorie mathématique du solveur](4A/Annexe/Annexe_Gradel_solveur_IK_redondant.pdf) | Formulation mathématique et algorithmique détaillée du solveur pour un robot ABB IRB 6640 sur rail linéaire avec mandrin rotatif (RobotComponents / Grasshopper). |
 
 ## 5A
 
