@@ -8,12 +8,20 @@ Recueil de mes rapports techniques, classés par année d'école d'ingénieur.
 |---|---|
 | [Dossier technique — Olympiades FANUC 2025](3A/Dossier_technique_Olympiades_FANUC_2025.pdf) | Conception d'une cellule robotisée d'encaissage et de palettisation de bouteilles : choix des préhenseurs et des robots, étude des temps de cycle, simulation ROBOGUIDE, line tracking et analyse des risques. Projet en équipe avec Kassoum Kone et Serigne Mbaye. |
 
-## 4A — Stage chez Gradel Lightweight
+## 4A
+
+### Stage chez Gradel Lightweight
 
 | Rapport | Description |
 |---|---|
 | [Fonctionnement du solveur cinématique](4A/Fonctionnement_solveur_cinematique.pdf) | Présentation du solveur de cinématique inverse développé pour la cellule d'enroulement filamentaire : problème posé, notions de robotique, étapes de calcul (rail, yaw, mandrin), algorithme de recherche, détection de collision et génération du programme RAPID. |
 | [Annexe — théorie mathématique du solveur](4A/Annexe/Annexe_Gradel_solveur_IK_redondant.pdf) | Formulation mathématique et algorithmique détaillée du solveur pour un robot ABB IRB 6640 sur rail linéaire avec mandrin rotatif (RobotComponents / Grasshopper). |
+
+### Projet — Fête de la Science (service web)
+
+| Rapport | Description |
+|---|---|
+| [Rapport de programmation — plateforme Fête de la Science](4A/Rapport_Fete_de_la_Science_service_web.pdf) | Plateforme web de gestion des ateliers et des inscriptions pour la Fête de la Science : architecture MVC Spring Boot + MySQL, rôles participant / animateur / administrateur, sécurité (Spring Security, BCrypt), géolocalisation et cartographie, intégration continue. Projet en équipe de six. |
 
 ## 5A
 
