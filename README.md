@@ -25,7 +25,15 @@ Recueil de mes rapports techniques, classés par année d'école d'ingénieur.
 
 ## 5A
 
+### Projet — vol autonome d'un drone Tello
+
 | Rapport | Description |
 |---|---|
 | [Article — vol autonome d'un drone Tello à travers un cerceau](5A/Article_vol_autonome_drone_Tello.pdf) | Article complet du projet, écrit avec Samuel Stef : identification et asservissement de la hauteur, du lacet et de l'axe X, réseau de neurones de détection du cerceau, position 3D, architecture HIL multi-thread, communication MQTT, tableau de bord temps réel et machine à états. |
 | [Code source — drone Tello](https://github.com/AdrienChaudron/drone-tello-cerceaux) | Dépôt du projet : détection du cerceau par CNN, position 3D, machine à états de recherche et de mise en axe, liaison MQTT avec le PC de contrôle. |
+
+### Deep Learning
+
+| Rapport | Description |
+|---|---|
+| [TP — segmentation sémantique sur Pascal VOC](5A/Deep_Learning/Rapport_TP_segmentation_semantique_Pascal_VOC.pdf) | Segmentation sémantique des 21 classes de Pascal VOC avec un U-Net à encodeur ResNet-18 pré-entraîné et une Focal Loss, comparé à DeepLabV3 : choix des augmentations de données, effet du taux d'apprentissage, importance d'une graine fixe pour comparer les entraînements. |
